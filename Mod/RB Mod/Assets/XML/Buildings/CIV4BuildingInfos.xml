@@ -4051,11 +4051,11 @@
             <!-- CH's stuff goes here #CHADD-->
 		<BuildingInfo>
 			<BuildingClass>BUILDINGCLASS_HARBOR</BuildingClass>
-			<Type>BUILDING_GREEK_NEWHARBOR</Type>
+			<Type>BUILDING_HARBOR</Type>
 			<SpecialBuildingType>NONE</SpecialBuildingType>
 			<Description>TXT_KEY_BUILDING_HARBOR</Description>
 			<Civilopedia>TXT_KEY_BUILDING_HARBOR_PEDIA</Civilopedia>
-			<Strategy>This is test strategy text</Strategy>
+			<Strategy>TXT_KEY_BUILDING_HARBOR_STRATEGY</Strategy>
 			<Advisor>ADVISOR_ECONOMY</Advisor>
 			<ArtDefineTag>ART_DEF_BUILDING_HARBOR</ArtDefineTag>
 			<MovieDefineTag>NONE</MovieDefineTag>

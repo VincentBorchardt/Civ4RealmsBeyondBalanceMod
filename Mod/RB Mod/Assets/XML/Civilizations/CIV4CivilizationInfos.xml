@@ -1539,6 +1539,10 @@
 					<BuildingClassType>BUILDINGCLASS_COLOSSEUM</BuildingClassType>
 					<BuildingType>BUILDING_GREEK_ODEON</BuildingType>
 				</Building>
+                        <Building>
+					<BuildingClassType>BUILDINGCLASS_HARBOR</BuildingClassType>
+					<BuildingType>BUILDING_GREEK_NEWHARBOR</BuildingType>
+				</Building>
 			</Buildings>
 			<Units>
 				<Unit>

@@ -220,7 +220,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_HUNTING</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -318,7 +318,7 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
@@ -538,7 +538,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_AGRICULTURE</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -756,7 +756,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_FISHING</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -1676,7 +1676,7 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_MINING</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
@@ -1776,11 +1776,11 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_AGRICULTURE</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_MINING</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -1939,7 +1939,7 @@
 			</FreeBuildingClasses>
 			<FreeTechs>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_FISHING</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
@@ -2457,7 +2457,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -3483,7 +3483,7 @@
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
+					<TechType>TECH_THE_WHEEL</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 			</FreeTechs>
@@ -3825,6 +3825,7 @@
 			<ArtDefineTag>ART_DEF_CIVILIZATION_MINOR</ArtDefineTag>
 			<ArtStyleType>ARTSTYLE_BARBARIAN</ArtStyleType>
 			<bPlayable>0</bPlayable>
+
 			<bAIPlayable>0</bAIPlayable>
 			<Cities>
 				<City>TXT_KEY_CITY_NAME_CHEROKEE</City>
@@ -3910,10 +3911,6 @@
 			<FreeTechs>
 				<FreeTech>
 					<TechType>TECH_MINING</TechType>
-					<bFreeTech>1</bFreeTech>
-				</FreeTech>
-				<FreeTech>
-					<TechType>TECH_MYSTICISM</TechType>
 					<bFreeTech>1</bFreeTech>
 				</FreeTech>
 				<FreeTech>

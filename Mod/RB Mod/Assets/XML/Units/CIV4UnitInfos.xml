@@ -488,6 +488,8 @@
 					<FeatureType>FEATURE_JUNGLE</FeatureType>
 					<bFeatureNative>1</bFeatureNative>
 				</FeatureNative>
+
+
 			</FeatureNatives>
 			<TerrainAttacks/>
 			<TerrainDefenses/>
@@ -5405,7 +5407,7 @@
 			<iHotKeyPriority>0</iHotKeyPriority>
 			<FreePromotions>
 				<FreePromotion>
-					<PromotionType>PROMOTION_DRILL1</PromotionType>
+					<PromotionType>PROMOTION_DRILL4</PromotionType>
 					<bFreePromotion>1</bFreePromotion>
 				</FreePromotion>
 			</FreePromotions>
@@ -10067,6 +10069,7 @@
 			<ReligionType>NONE</ReligionType>
 			<StateReligion>NONE</StateReligion>
 			<PrereqReligion>NONE</PrereqReligion>
+
 			<PrereqCorporation>NONE</PrereqCorporation>
 			<PrereqBuilding>NONE</PrereqBuilding>
 			<PrereqTech>TECH_ARCHERY</PrereqTech>
@@ -10796,6 +10799,7 @@
 			<bHiddenNationality>0</bHiddenNationality>
 			<bAlwaysHostile>0</bAlwaysHostile>
 			<UnitClassUpgrades>
+
 				<UnitClassUpgrade>
 					<UnitClassUpgradeType>UNITCLASS_KNIGHT</UnitClassUpgradeType>
 					<bUnitClassUpgrade>1</bUnitClassUpgrade>
@@ -12409,7 +12413,7 @@
 			<ProductionTraits/>
 			<Flavors/>
 			<iAIWeight>0</iAIWeight>
-			<iCost>100</iCost>
+			<iCost>90</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
@@ -12463,6 +12467,10 @@
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+					<iUnitCombatMod>50</iUnitCombatMod>
+				</UnitCombatMod>
+				<UnitCombatMod>
+					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
 					<iUnitCombatMod>50</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
@@ -13210,6 +13218,7 @@
 			<iBaseHurry>0</iBaseHurry>
 			<iHurryMultiplier>0</iHurryMultiplier>
 			<iBaseTrade>0</iBaseTrade>
+
 			<iTradeMultiplier>0</iTradeMultiplier>
 			<iGreatWorkCulture>0</iGreatWorkCulture>
 			<iEspionagePoints>0</iEspionagePoints>
@@ -13456,6 +13465,7 @@
 			<UnitMeshGroups>
 				<iGroupSize>2</iGroupSize>
 				<fMaxSpeed>1.75</fMaxSpeed>
+
 				<fPadTime>1</fPadTime>
 				<iMeleeWaveSize>2</iMeleeWaveSize>
 				<iRangedWaveSize>2</iRangedWaveSize>
@@ -16621,6 +16631,7 @@
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>20</iMinAreaSize>
 			<iMoves>4</iMoves>
+
 			<bNoRevealMap>0</bNoRevealMap>
 			<iAirRange>0</iAirRange>
 			<iAirUnitCap>0</iAirUnitCap>
@@ -17355,6 +17366,7 @@
 			<ForceBuildings/>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
+
 			<StateReligion>NONE</StateReligion>
 			<PrereqReligion>NONE</PrereqReligion>
 			<PrereqCorporation>NONE</PrereqCorporation>

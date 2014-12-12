@@ -39,7 +39,7 @@
 			<iImprovementPercent>100</iImprovementPercent>
 			<iGreatPeoplePercent>100</iGreatPeoplePercent>
 			<iCulturePercent>100</iCulturePercent>
-			<iAnarchyPercent>50</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>1</iEventChancePerTurn>
 			<iSoundtrackSpace>0</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -91,7 +91,7 @@
 			<iImprovementPercent>100</iImprovementPercent>
 			<iGreatPeoplePercent>100</iGreatPeoplePercent>
 			<iCulturePercent>100</iCulturePercent>
-			<iAnarchyPercent>50</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>2</iEventChancePerTurn>
 			<iSoundtrackSpace>400</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -158,7 +158,7 @@
 			<iImprovementPercent>100</iImprovementPercent>
 			<iGreatPeoplePercent>100</iGreatPeoplePercent>
 			<iCulturePercent>100</iCulturePercent>
-			<iAnarchyPercent>40</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>4</iEventChancePerTurn>
 			<iSoundtrackSpace>200</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -226,7 +226,7 @@
 			<iImprovementPercent>90</iImprovementPercent>
 			<iGreatPeoplePercent>90</iGreatPeoplePercent>
 			<iCulturePercent>90</iCulturePercent>
-			<iAnarchyPercent>40</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>4</iEventChancePerTurn>
 			<iSoundtrackSpace>160</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -293,7 +293,7 @@
 			<iImprovementPercent>80</iImprovementPercent>
 			<iGreatPeoplePercent>80</iGreatPeoplePercent>
 			<iCulturePercent>80</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>6</iEventChancePerTurn>
 			<iSoundtrackSpace>120</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -357,7 +357,7 @@
 			<iImprovementPercent>70</iImprovementPercent>
 			<iGreatPeoplePercent>70</iGreatPeoplePercent>
 			<iCulturePercent>70</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>8</iEventChancePerTurn>
 			<iSoundtrackSpace>80</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>
@@ -419,7 +419,7 @@
 			<iImprovementPercent>60</iImprovementPercent>
 			<iGreatPeoplePercent>60</iGreatPeoplePercent>
 			<iCulturePercent>60</iCulturePercent>
-			<iAnarchyPercent>34</iAnarchyPercent>
+			<iAnarchyPercent>0</iAnarchyPercent>
 			<iEventChancePerTurn>10</iEventChancePerTurn>
 			<iSoundtrackSpace>40</iSoundtrackSpace>
 			<bFirstSoundtrackFirst>0</bFirstSoundtrackFirst>

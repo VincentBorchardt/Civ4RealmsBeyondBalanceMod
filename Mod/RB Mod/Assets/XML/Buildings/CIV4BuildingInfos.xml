@@ -1953,10 +1953,15 @@
 			<UnitCombatFreeExperiences>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
-					<iExperience>4</iExperience>
+					<iExperience>3</iExperience>
 				</UnitCombatFreeExperience>
 			</UnitCombatFreeExperiences>
-			<DomainFreeExperiences/>
+			<DomainFreeExperiences>
+				<DomainFreeExperience>
+					<DomainType>DOMAIN_LAND</DomainType>
+					<iExperience>1</iExperience>
+				</DomainFreeExperience>
+			</DomainFreeExperiences>
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>
@@ -4293,6 +4298,7 @@
 			<bMapCentering>0</bMapCentering>
 			<bNoUnhappiness>0</bNoUnhappiness>
 			<bNoUnhealthyPopulation>0</bNoUnhealthyPopulation>
+
 			<bBuildingOnlyHealthy>0</bBuildingOnlyHealthy>
 			<bNeverCapture>0</bNeverCapture>
 			<bNukeImmune>0</bNukeImmune>
@@ -5149,6 +5155,7 @@
 				</ProductionTrait>
 			</ProductionTraits>
 			<HappinessTraits/>
+
 			<NoBonus>NONE</NoBonus>
 			<PowerBonus>NONE</PowerBonus>
 			<FreeBonus>NONE</FreeBonus>
@@ -14163,6 +14170,7 @@
 			<VictoryPrereq>NONE</VictoryPrereq>
 			<FreeStartEra>NONE</FreeStartEra>
 			<MaxStartEra>NONE</MaxStartEra>
+
 			<ObsoleteTech>NONE</ObsoleteTech>
 			<PrereqTech>NONE</PrereqTech>
 			<TechTypes/>

@@ -490,6 +490,7 @@
 				</FeatureNative>
 
 
+
 			</FeatureNatives>
 			<TerrainAttacks/>
 			<TerrainDefenses/>
@@ -4581,15 +4582,14 @@
 			<FeatureAttacks/>
 			<FeatureDefenses/>
 			<UnitClassAttackMods/>
-			<UnitClassDefenseMods>
-				<UnitClassDefenseMod>
-					<UnitClassType>UNITCLASS_CHARIOT</UnitClassType>
-					<iUnitClassMod>100</iUnitClassMod>
-				</UnitClassDefenseMod>
-			</UnitClassDefenseMods>
+			<UnitClassDefenseMods/>
 			<UnitCombatMods>
 				<UnitCombatMod>
 					<UnitCombatType>UNITCOMBAT_MELEE</UnitCombatType>
+					<iUnitCombatMod>50</iUnitCombatMod>
+				</UnitCombatMod>
+				<UnitCombatMod>
+					<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
 					<iUnitCombatMod>50</iUnitCombatMod>
 				</UnitCombatMod>
 			</UnitCombatMods>
@@ -16870,7 +16870,7 @@
 			<iBombardRate>0</iBombardRate>
 			<SpecialCargo>NONE</SpecialCargo>
 			<DomainCargo>DOMAIN_LAND</DomainCargo>
-			<iCargo>4</iCargo>
+			<iCargo>3</iCargo>
 			<iConscription>0</iConscription>
 			<iCultureGarrison>0</iCultureGarrison>
 			<iExtraCost>0</iExtraCost>
@@ -17366,6 +17366,7 @@
 			<ForceBuildings/>
 			<HolyCity>NONE</HolyCity>
 			<ReligionType>NONE</ReligionType>
+
 
 			<StateReligion>NONE</StateReligion>
 			<PrereqReligion>NONE</PrereqReligion>

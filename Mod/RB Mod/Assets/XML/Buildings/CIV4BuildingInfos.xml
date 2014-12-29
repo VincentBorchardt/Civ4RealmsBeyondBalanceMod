@@ -7251,10 +7251,19 @@
 			<UnitCombatFreeExperiences>
 				<UnitCombatFreeExperience>
 					<UnitCombatType>UNITCOMBAT_ARCHER</UnitCombatType>
-					<iExperience>3</iExperience>
+					<iExperience>2</iExperience>
+				</UnitCombatFreeExperience>
+				<UnitCombatFreeExperience>
+					<UnitCombatType>UNITCOMBAT_GUN</UnitCombatType>
+					<iExperience>2</iExperience>
 				</UnitCombatFreeExperience>
 			</UnitCombatFreeExperiences>
-			<DomainFreeExperiences/>
+			<DomainFreeExperiences>
+				<DomainFreeExperience>
+					<DomainType>DOMAIN_LAND</DomainType>
+					<iExperience>1</iExperience>
+				</DomainFreeExperience>
+			</DomainFreeExperiences>
 			<DomainProductionModifiers/>
 			<BuildingHappinessChanges/>
 			<PrereqBuildingClasses/>

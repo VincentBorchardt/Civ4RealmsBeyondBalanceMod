@@ -492,6 +492,7 @@
 
 
 
+
 			</FeatureNatives>
 			<TerrainAttacks/>
 			<TerrainDefenses/>
@@ -5167,6 +5168,7 @@
 			<iHillsAttack>0</iHillsAttack>
 			<iHillsDefense>0</iHillsDefense>
 			<TerrainNatives/>
+
 			<FeatureNatives/>
 			<TerrainAttacks/>
 			<TerrainDefenses/>
@@ -11186,10 +11188,6 @@
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
 				<UnitAI>
@@ -11379,10 +11377,6 @@
 			<FlankingStrikes>
 				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 			</FlankingStrikes>
@@ -11585,9 +11579,6 @@
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
 				<UnitAI>
@@ -11783,10 +11774,6 @@
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
 				<UnitAI>
@@ -11977,10 +11964,6 @@
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
 				<UnitAI>
@@ -12164,10 +12147,6 @@
 			<FlankingStrikes>
 				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 			</FlankingStrikes>
@@ -12362,10 +12341,6 @@
 			<FlankingStrikes>
 				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
@@ -12581,10 +12556,6 @@
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CANNON</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
@@ -12779,10 +12750,6 @@
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CANNON</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
@@ -12974,10 +12941,6 @@
 			<FlankingStrikes>
 				<FlankingStrike>
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
-					<iFlankingStrength>50</iFlankingStrength>
-				</FlankingStrike>
-				<FlankingStrike>
-					<FlankingStrikeUnitClass>UNITCLASS_TREBUCHET</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
 				<FlankingStrike>
@@ -16638,6 +16601,7 @@
 			<iCost>80</iCost>
 			<iHurryCostModifier>0</iHurryCostModifier>
 			<iAdvancedStartCost>100</iAdvancedStartCost>
+
 			<iAdvancedStartCostIncrease>0</iAdvancedStartCostIncrease>
 			<iMinAreaSize>20</iMinAreaSize>
 			<iMoves>4</iMoves>

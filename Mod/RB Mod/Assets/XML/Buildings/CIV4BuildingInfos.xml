@@ -27021,7 +27021,7 @@
 			<iPower>10</iPower>
 			<fVisibilityPriority>1.0</fVisibilityPriority>
 			<SeaPlotYieldChanges>
-				<iYield>0</iYield>
+				<iYield>1</iYield>
 				<iYield>1</iYield>
 			</SeaPlotYieldChanges>
 			<RiverPlotYieldChanges/>

@@ -468,6 +468,7 @@
 			</Events>
 			<PrereqEvents/>
 			<bPrereqEventPlot>0</bPrereqEventPlot>
+
 			<OrPreReqs/>
 			<AndPreReqs/>
 			<ObsoleteTechs/>
@@ -8757,7 +8758,7 @@
 			<PrereqEvents/>
 			<bPrereqEventPlot>0</bPrereqEventPlot>
 			<OrPreReqs>
-				<PrereqTech>TECH_DRAMA</PrereqTech>
+				<PrereqTech>TECH_AESTHETICS</PrereqTech>
 			</OrPreReqs>
 			<AndPreReqs/>
 			<ObsoleteTechs/>
@@ -14244,6 +14245,7 @@
 				<Event>EVENT_WAR_CHARIOTS_DONE_2</Event>
 			</Events>
 			<PrereqEvents>
+
 				<Event>EVENT_WAR_CHARIOTS_1</Event>
 			</PrereqEvents>
 			<bPrereqEventPlot>0</bPrereqEventPlot>

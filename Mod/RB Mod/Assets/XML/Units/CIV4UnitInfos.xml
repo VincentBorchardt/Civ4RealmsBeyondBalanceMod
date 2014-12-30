@@ -493,6 +493,7 @@
 
 
 
+
 			</FeatureNatives>
 			<TerrainAttacks/>
 			<TerrainDefenses/>
@@ -4435,6 +4436,7 @@
 			<Class>UNITCLASS_AXEMAN</Class>
 			<Type>UNIT_GREEK_PHALANX</Type>
 			<UniqueNames/>
+
 			<Special>NONE</Special>
 			<Capture>NONE</Capture>
 			<Combat>UNITCOMBAT_MELEE</Combat>
@@ -11578,7 +11580,6 @@
 					<FlankingStrikeUnitClass>UNITCLASS_CATAPULT</FlankingStrikeUnitClass>
 					<iFlankingStrength>50</iFlankingStrength>
 				</FlankingStrike>
-				<FlankingStrike>
 			</FlankingStrikes>
 			<UnitAIs>
 				<UnitAI>
@@ -18362,6 +18363,7 @@
 			<FormationType>FORMATION_TYPE_MACHINE</FormationType>
 			<HotKey/>
 			<bAltDown>0</bAltDown>
+
 			<bShiftDown>0</bShiftDown>
 			<bCtrlDown>0</bCtrlDown>
 			<iHotKeyPriority>0</iHotKeyPriority>
@@ -19825,6 +19827,7 @@
 			<Domain>DOMAIN_AIR</Domain>
 			<DefaultUnitAI>UNITAI_ATTACK_AIR</DefaultUnitAI>
 			<Invisible>NONE</Invisible>
+
 			<SeeInvisible>NONE</SeeInvisible>
 			<Description>TXT_KEY_UNIT_STEALTH_BOMBER</Description>
 			<Civilopedia>TXT_KEY_UNIT_STEALTH_BOMBER_PEDIA</Civilopedia>

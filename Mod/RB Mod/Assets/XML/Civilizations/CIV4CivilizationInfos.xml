@@ -1270,6 +1270,7 @@
 				<City>TXT_KEY_CITY_NAME_STRASBOURG</City>
 				<City>TXT_KEY_CITY_NAME_BREST</City>
 				<City>TXT_KEY_CITY_NAME_BORDEAUX</City>
+
 				<City>TXT_KEY_CITY_NAME_RENNES</City>
 				<City>TXT_KEY_CITY_NAME_NICE</City>
 				<City>TXT_KEY_CITY_NAME_SAINT_ETIENNE</City>
@@ -1921,7 +1922,7 @@
 			</Buildings>
 			<Units>
 				<Unit>
-					<UnitClassType>UNITCLASS_WORKER</UnitClassType>
+					<UnitClassType>UNITCLASS_FAST_WORKER</UnitClassType>
 					<UnitType>UNIT_INDIAN_FAST_WORKER</UnitType>
 				</Unit>
 			</Units>
